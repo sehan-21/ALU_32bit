@@ -1,0 +1,10 @@
+*.jou
+*.log
+*.str
+*.pb
+.Xil/
+vivado_*.backup*/
+*.dcp
+*.bit
+*.ltx
+*.rpt
